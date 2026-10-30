@@ -1,0 +1,8 @@
+dataset/
+dataset_*/
+raw_myanmar/
+closeup_raw/
+violations/
+runs/
+*.zip
+__pycache__/
